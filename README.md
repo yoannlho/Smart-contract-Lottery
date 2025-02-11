@@ -40,8 +40,8 @@ This is a smart contract lottery from Cyfrin Course updated using the last versi
 ## Quickstart
 
 ```
-git clone https://github.com/yoannlho/foundry-smart-contract-lottery
-cd foundry-smart-contract-lottery
+git clone https://github.com/yoannlho/Smart-contract-Lottery
+cd Smart-contract-Lottery
 forge build
 ```
 
